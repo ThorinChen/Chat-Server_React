@@ -7,7 +7,7 @@
   <b>Chat-Server based on socket.io</b>
 </p>
 
-![demo.gif](chat_pic.png)
+![demo picture](chat_pic.jpg)
 
 ### description
 1.group chat is supported<br/>
