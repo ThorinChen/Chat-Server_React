@@ -3,13 +3,11 @@
 
  
 ### doc
-
-
- 
 <p align='left'>
   <b>Chat-Server based on socket.io</b>
-  <img src='https://github.com/ThorinChen/Chat-Server_React/blob/master/data/chat_pic.png' />
 </p>
+
+![demo.gif](chat_pic.png)
 
 ### description
 1.group chat is supported<br/>
